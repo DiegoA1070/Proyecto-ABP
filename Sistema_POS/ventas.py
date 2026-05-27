@@ -2,7 +2,7 @@ import tkinter as tk
 
 from tkinter import messagebox
 
-from clases import guardar_json
+from clase_producto import guardar_json
 
 from datetime import datetime
 
