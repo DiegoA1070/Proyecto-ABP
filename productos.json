@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Arroz",
+        "precio": 2500,
+        "cantidad": 8
+    },
+    {
+        "nombre": "Leche 1L",
+        "precio": 5500,
+        "cantidad": 10
+    }
+]
