@@ -1,7 +1,7 @@
 from tkinter import messagebox
 
-from clases import Producto
-from clases import guardar_json
+from clase_producto import Producto
+from clase_producto import guardar_json
 
 
 PRODUCTOS = "productos.json"
