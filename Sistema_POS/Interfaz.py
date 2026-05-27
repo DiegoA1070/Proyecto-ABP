@@ -1,6 +1,6 @@
 import tkinter as tk
 
-from clases import cargar_json
+from clase_producto import cargar_json
 
 from inventario import agregar_producto
 from inventario import modificar_stock
